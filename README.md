@@ -12,13 +12,12 @@ This project uses **YOLOv8** and **OpenCV** to monitor traffic, track vehicles, 
 
 ## 🛠️ Requirements
 - Python 3.10+
-- Install dependencies:
-  ```bash
-  pip install -r requirements.txt
+
  👥 Team Members
 
 ~Hamza Mohamed Nour
 ~Mohamed Yasser
 ~Ahmed Salaheldin
+
 
 
